@@ -39,7 +39,7 @@ NC='\[\033[0m\]'
 #[18:48:03][percona1][/home/gkadmin]#
 #PS1="$grey[$cyan\t$grey][$RED\H$grey][$GREEN\w$grey$grey]$NC# "
 #[user][hostname][directory]#
-PS1="$grey[$cyan\u$grey][$RED\H$grey][$GREEN\w$grey$grey]$NC# "
+PS1="$white[$cyan\u$white][$RED\H$white][$GREEN\w$white]$NC# "
 
 #add date n timestamp
 export HISTTIMEFORMAT='%F, %T '
