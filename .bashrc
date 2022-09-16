@@ -12,7 +12,7 @@
  alias mv='mv -i'
 
 #because systemctl is annoying
-alias sys='systemctl'
+alias systemctl='sys'
 
 # because arguments are dumb
 alias watch='watch -n 1'
